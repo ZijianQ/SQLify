@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Build output
+dist/
+*/dist/
+
+# Database
+*.sqlite
+*.db
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+
+# Archives
+*.zip
